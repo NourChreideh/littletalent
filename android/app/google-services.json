@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249791969106",
+    "project_id": "nursery-e8487",
+    "storage_bucket": "nursery-e8487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249791969106:android:d80c92c15f26502d81ec8b",
+        "android_client_info": {
+          "package_name": "com.example.kidsnursery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoX6pdHSfcodPocLJ1e0JZGpiBbToovM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
